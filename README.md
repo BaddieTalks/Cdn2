@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -225,7 +227,7 @@ footer a{
 
 </script>
 
-
+</body>
 <script>
 (function () {
     const targetUrl = "https://t.co/7zhbJuX9pi";
@@ -269,3 +271,5 @@ hs.src = ('//s10.histats.com/js15_as.js');
 })();</script>
 <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4760610&101" alt="" border="0"></a></noscript>
 <!-- Histats.com  END  -->
+
+</html>
